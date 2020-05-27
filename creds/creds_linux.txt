@@ -1,0 +1,17 @@
+# Oracle Exadata (all components including Oracle DB), Oracle Zero Data Loss Recovery Appliance
+root/welcome1
+root/changeme
+oracle/welcome1
+oracle/We1come$
+grid/welcome1
+grub/sos1Exadata
+celladmin/welcome1
+cellmonitor/welcome1
+nm2user/changeme
+admin/welcome1
+ilom-admin/ilom-admin
+ilom-operator/ilom-operator
+dbmadmin/welcome
+dbmmonitor/welcome
+#GRUB boot loader: sos1Exadata
+#CELLDIAG is an Exadata storage software user, not an operating system user: Welcome12345
